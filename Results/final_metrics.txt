@@ -1,0 +1,15 @@
+eval_loss: 0.09044498950242996
+eval_overall_precision: 0.6545037898818967
+eval_overall_recall: 0.8105217201484392
+eval_overall_f1: 0.7242051882192314
+eval_overall_accuracy: 0.9550342281362972
+eval_DIS_precision: 0.6561271882815292
+eval_DIS_recall: 0.8097442680776014
+eval_DIS_f1: 0.7248865206236432
+eval_CHEM_precision: 0.6406727828746177
+eval_CHEM_recall: 0.7957135105805752
+eval_CHEM_f1: 0.7098257502420137
+eval_runtime: 99.1061
+eval_samples_per_second: 15.377
+eval_steps_per_second: 1.927
+epoch: 10.0
